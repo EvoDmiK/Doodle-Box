@@ -1,0 +1,50 @@
+## 데이터 보호
+**/Object Detection/**/*.*
+data/**/*.* 
+**/*.txt
+**/Dataset/**/*.*
+**/Dataset/**/*
+**/*.gltf
+**/*.docx
+**/*.json
+**/*.jpeg
+**/*.tsv
+**/*.csv
+**/*.jpg
+**/*.png
+**/*.npz
+**/*.tar
+**/*.xml
+**/*.zip
+**/*.db
+**/*.h5
+**/*.pt
+
+## 로그 파일 보호
+**/**/*.log
+
+## 굳이 필요없는 애들
+python-study/Coding Test/Project Euler/texts/names.txt
+python-study/Coding Test/Project Euler/texts/words.txt
+**/**/.ipynb_checkpoints
+**/Untitled*.ipynb
+**/*.out.tfevents
+**/Template.ipynb
+**/output/**/*.*
+**/*-checkpoint*
+**/Cargo.lock
+**/*_variable
+**/target/*
+**/*.onnx
+**/*.pth
+**/*.ttf
+**/*.pyc
+
+## 다른 사람저작물
+**/**/LICENSE
+**/**/pytorch
+**/**/*.pdf
+Kaggle/CV/MIA/image_classifier/graph
+Kaggle/CV/MIA/image_classifier/trial_000/pipeline
+Kaggle/CV/MIA/image_classifier/trial_001/pipeline
+Kaggle/CV/MIA/image_classifier/trial_002/pipeline
