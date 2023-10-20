@@ -1,13 +1,15 @@
 ## 데이터 보호
 **/Object Detection/**/*.*
-data/**/*.* 
-**/*.txt
 **/Dataset/**/*.*
 **/Dataset/**/*
+ipynb/**/*.txt
+data/**/*.*
+py/**/*.txt
 **/*.gltf
 **/*.docx
 **/*.json
 **/*.jpeg
+
 **/*.tsv
 **/*.csv
 **/*.jpg
